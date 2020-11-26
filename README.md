@@ -36,7 +36,7 @@
    - You can join the bot into your discord server and use it.
 - Fast Response.
    - In the test the average response time was 35ms.
--Free.
+-Free to use and modify.
 
 ### Adding to discord.
 
