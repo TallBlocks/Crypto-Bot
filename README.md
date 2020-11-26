@@ -37,7 +37,6 @@
 - Fast Response.
    - In the test the average response time was 35ms.
 -Free to use and modify.
-
 ### Adding to discord.
 
 <a class="col-md-6 col-lg-4 mb-5" href="https://discord.com/api/oauth2/authorize?client_id=780155528692498453&amp;permissions=67584&amp;redirect_uri=https%3A%2F%2FTallBlocks.github.io%2FCryptoBot%2F&amp;scope=bot" align="center">
